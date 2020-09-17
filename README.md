@@ -75,3 +75,6 @@ Lista do time responsável pela iniciativa
 
 The [MIT License](https://api.github.com/licenses/mit) (MIT)
 
+### Comunicação 
+
+Canal do Slack: #brasil-pyladies-bioinformatica
