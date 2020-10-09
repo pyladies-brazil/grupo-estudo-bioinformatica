@@ -14,13 +14,12 @@ Esse é o repositório do **grupo de estudo de bioinformática** ligado ao PyLad
 Fase 1: 6 semanas
 | Exercícios | Tópico | Dia da Reunião |
 |------------|--------|----------------|
-| [Counting DNA Nucleotides Transcribing DNA into RNA](http://rosalind.info/problems/rna/) | String Algorithms |  |
-| [Complementing a Strand of DNA Computing GC Content](http://rosalind.info/problems/revc/) | String Algorithms |  |
-| [Counting Point Mutations](http://rosalind.info/problems/hamm/) |Alignment| |
-| [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | Combinatorics |  |
-| [Mendel's First Law](http://rosalind.info/problems/iprb/) | Heredity |  |
-| [Finding a Motif in DNA](http://rosalind.info/problems/subs/) | String Algorithms |  |
-
+|A - [Counting DNA Nucleotides](http://rosalind.info/problems/dna/) e [Transcribing DNA into RNA](http://rosalind.info/problems/rna/) | String Algorithms | 10 out. 2020  |
+|B - [Complementing a Strand of DNA](http://rosalind.info/problems/revc/) e [Computing GC Content](http://rosalind.info/problems/gc/) | String Algorithms |  |
+|C - [Counting Point Mutations](http://rosalind.info/problems/hamm/) |Alignment| |
+| D - [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | Combinatorics |  |
+| E - [Mendel's First Law](http://rosalind.info/problems/iprb/) | Heredity |  |
+| F - [Finding a Motif in DNA](http://rosalind.info/problems/subs/) | String Algorithms |  |
 
 Fase 2: 7 semanas
 | Exercícios | Tópico | Dia da Reunião |
