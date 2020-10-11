@@ -24,43 +24,43 @@ Fase 1: 6 semanas
 Fase 2: 7 semanas
 | Exercícios | Tópico | Dia da Reunião |
 |------------|--------|----------------|
-|[Overlap Graphs](http://rosalind.info/problems/grph/) | Graph Algorithms |  |
-|[Mortal Fibonacci Rabbits](http://rosalind.info/problems/fibd/) | Combinatorics | |
-|[Consensus and Profile](http://rosalind.info/problems/cons/)| String Algorithms | |
-|[Calculating Expected Offspring](http://rosalind.info/problems/iev/) | Heredity | |
-|[Finding a Protein Motif](http://rosalind.info/problems/mprt/) | Proteomics | |
-|[RNA Splicing](http://rosalind.info/problems/splc/) | String Algorithms | |
-|[Calculating Protein Mass](http://rosalind.info/problems/prtm/) | Computacional Mass Spectrometry | |
+|A - [Overlap Graphs](http://rosalind.info/problems/grph/) | Graph Algorithms |  |
+|B - [Mortal Fibonacci Rabbits](http://rosalind.info/problems/fibd/) | Combinatorics | |
+|C - [Consensus and Profile](http://rosalind.info/problems/cons/)| String Algorithms | |
+|D - [Calculating Expected Offspring](http://rosalind.info/problems/iev/) | Heredity | |
+|E - [Finding a Protein Motif](http://rosalind.info/problems/mprt/) | Proteomics | |
+|F - [RNA Splicing](http://rosalind.info/problems/splc/) | String Algorithms | |
+|G - [Calculating Protein Mass](http://rosalind.info/problems/prtm/) | Computacional Mass Spectrometry | |
 
 Fase 3: 6 semanas
 | Exercícios | Tópico | Dia da Reunião |
 |------------|--------|----------------|
-|[Open Reading Frames](http://rosalind.info/problems/orf/) | Combinatorics | |
-|[Independent Alleles](http://rosalind.info/problems/lia/) | Heredity | |
-|[Finding a Shared Motif](http://rosalind.info/problems/lcsm/) | String Algorithms | |
-|[Enumerating Gene Orders](http://rosalind.info/problems/perm/) | Genome Rearrangements | |
-|[Locating Restriction Sites](http://rosalind.info/problems/revp/) | String Algorithms | |
-|[Inferring mRNA from Protein](http://rosalind.info/problems/mrna/) | Combinatorics | |
+|A - [Open Reading Frames](http://rosalind.info/problems/orf/) | Combinatorics | |
+|B - [Independent Alleles](http://rosalind.info/problems/lia/) | Heredity | |
+|C - [Finding a Shared Motif](http://rosalind.info/problems/lcsm/) | String Algorithms | |
+|D - [Enumerating Gene Orders](http://rosalind.info/problems/perm/) | Genome Rearrangements | |
+|E - [Locating Restriction Sites](http://rosalind.info/problems/revp/) | String Algorithms | |
+|F - [Inferring mRNA from Protein](http://rosalind.info/problems/mrna/) | Combinatorics | |
 
 Fase 4: 6 semanas
 | Exercícios | Tópico | Dia da Reunião |
 |------------|--------|----------------|
-|[Perfect Matchings and RNA Secondary Structures](http://rosalind.info/problems/pmch/) | Combinatorics | |
-|[Partial Permutations](http://rosalind.info/problems/pper/) | Genome Rearrangements | |
-|[Completing a Tree](http://rosalind.info/problems/tree/) | Phylogeny | |
-|[Introduction to Random Strings](http://rosalind.info/problems/prob/) | Probability | |
-|[Genome Assembly as Shortest Superstring](http://rosalind.info/problems/long/) | Genome Assembly | |
-|[Finding a Spliced Motif](http://rosalind.info/problems/sseq/) | String Algorithms | |
+|A - [Perfect Matchings and RNA Secondary Structures](http://rosalind.info/problems/pmch/) | Combinatorics | |
+|B - [Partial Permutations](http://rosalind.info/problems/pper/) | Genome Rearrangements | |
+|C - [Completing a Tree](http://rosalind.info/problems/tree/) | Phylogeny | |
+|D - [Introduction to Random Strings](http://rosalind.info/problems/prob/) | Probability | |
+|E - [Genome Assembly as Shortest Superstring](http://rosalind.info/problems/long/) | Genome Assembly | |
+|F - [Finding a Spliced Motif](http://rosalind.info/problems/sseq/) | String Algorithms | |
 
 Fase 5: 6 semanas
 | Exercícios | Tópico | Dia da Reunião |
 |------------|--------|----------------|
-|[Transitions and Transversions](http://rosalind.info/problems/tran/) | Alignment | |
-|[Enumerating k-mers Lexicographically](http://rosalind.info/problems/lexf/) | String Algorithms | |
-|[Longest Increasing Subsequence](http://rosalind.info/problems/lgis/) | Dynamic Programming | |
-|[Enumerating Oriented Gene Orderings](http://rosalind.info/problems/sign/) | Genome Rearrangements | |
-|[Counting Phylogenetic Ancestors](http://rosalind.info/problems/inod/) | Phylogeny | |
-|[Maximum Matchings and RNA Secondary Structures](http://rosalind.info/problems/mmch/) | String Algorithms | |
+|A - [Transitions and Transversions](http://rosalind.info/problems/tran/) | Alignment | |
+|B - [Enumerating k-mers Lexicographically](http://rosalind.info/problems/lexf/) | String Algorithms | |
+|C - [Longest Increasing Subsequence](http://rosalind.info/problems/lgis/) | Dynamic Programming | |
+|D - [Enumerating Oriented Gene Orderings](http://rosalind.info/problems/sign/) | Genome Rearrangements | |
+|E - [Counting Phylogenetic Ancestors](http://rosalind.info/problems/inod/) | Phylogeny | |
+|F - [Maximum Matchings and RNA Secondary Structures](http://rosalind.info/problems/mmch/) | String Algorithms | |
 
 ### Desenvolvedoras/Contribuintes
 
@@ -76,4 +76,4 @@ The [MIT License](https://api.github.com/licenses/mit) (MIT)
 
 ### Comunicação 
 
-Canal do Slack: #brasil-pyladies-bioinformatica
+Canal do Slack: **#brasil-pyladies-bioinformatica**
