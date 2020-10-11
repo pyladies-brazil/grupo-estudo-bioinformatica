@@ -7,7 +7,7 @@ Esse é o repositório do **grupo de estudo de bioinformática** ligado ao PyLad
 **Funcionamento do grupo:**
 * um exercício do site será escolhido
 * cada integrante resolverá individualmente o problema com seu código em python e em sua casa.
-* Após isso, as integrantes se reúnem uma vez por semana para discutir as diferentes formas de resolver um mesmo problema inicial utilizando programação: analisar diferentes métodos, bibliotecas, estruturas, etc.
+* Após isso, as integrantes se reúnem uma vez, quinzenalmente, para discutir as diferentes formas de resolver um mesmo problema inicial utilizando programação: analisar diferentes métodos, bibliotecas, estruturas, etc.
 
 ## Cronograma
 
