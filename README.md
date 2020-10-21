@@ -1,6 +1,6 @@
 # Bioinformática
 
-Esse é o repositório do **grupo de estudo de bioinformática** ligado ao PyLadies Brasil, iremos armazenar os estudos, os modelos, outros arquivos relacionado a bioinformática. Inicialmente, estaremos utilizando a proposta da rosalind. [Rosalind](http://rosalind.info/problems/list-view/) é um website que possui diversos problemas de **Bioinformática** para serem resolvidos usando programação. Os exercícios fornecem os dados de input e as instruções do que deve ser feito, o objetivo é usar a programação para retornar a resolução com output.
+Esse é o repositório do **grupo de estudo de bioinformática** ligado às PyLadies Brasil, iremos armazenar os estudos, os modelos, outros arquivos relacionado a bioinformática. Inicialmente, estaremos utilizando a proposta da rosalind. [Rosalind](http://rosalind.info/problems/list-view/) é um website que possui diversos problemas de **Bioinformática** para serem resolvidos usando programação. Os exercícios fornecem os dados de input e as instruções do que deve ser feito, o objetivo é usar a programação para retornar a resolução com output.
 
 **Objetivo do grupo**: estimular mulheres que querem ingressar ou avançar na área de bioinformática, de modo a adquirir maior conhecimento sobre python e uso da informática para analisar e manipular dados biológicos.
 
