@@ -76,4 +76,4 @@ The [MIT License](https://api.github.com/licenses/mit) (MIT)
 
 ### Comunicação 
 
-Canal do Slack: **#brasil-pyladies-bioinformatica**
+Canal do [Slack](https://slackin.pyladies.com/): **#brasil-pyladies-bioinformatica**
