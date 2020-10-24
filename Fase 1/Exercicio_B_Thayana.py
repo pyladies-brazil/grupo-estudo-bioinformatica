@@ -7,5 +7,6 @@ with open(file_name) as data:
     nucleotides_DNA = nucleotides_DNA.replace('T', 'U')
     print(nucleotides_DNA)
     
+#criando arquivo resultado
 with open(file_name_result, 'w') as data:
     data.write(nucleotides_DNA)
