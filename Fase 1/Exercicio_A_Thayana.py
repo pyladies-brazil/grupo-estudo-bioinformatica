@@ -3,6 +3,7 @@ file_name_result = file_name.replace('.txt', '_result')
 
 A,C,T,G = 0,0,0,0
 
+
 with open(file_name) as data:
     nucleotides = data.read()
     nucleotides.upper()
