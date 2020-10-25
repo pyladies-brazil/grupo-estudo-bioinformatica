@@ -16,8 +16,8 @@ Fase 1: 6 semanas
 |------------|--------|----------------|
 |A - [Counting DNA Nucleotides](http://rosalind.info/problems/dna/) e [Transcribing DNA into RNA](http://rosalind.info/problems/rna/) | String Algorithms | [10 out. 2020](https://github.com/pyladies-brazil/organizacao/issues/34)  |
 |B - [Complementing a Strand of DNA](http://rosalind.info/problems/revc/) e [Computing GC Content](http://rosalind.info/problems/gc/) | String Algorithms | [24 out. 2020](https://github.com/pyladies-brazil/organizacao/issues/36) |
-|C - [Counting Point Mutations](http://rosalind.info/problems/hamm/) |Alignment| |
-| D - [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | Combinatorics |  |
+|C - [Counting Point Mutations](http://rosalind.info/problems/hamm/) |Alignment| 08 nov. 2020 |
+| D - [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | Combinatorics | 08 nov. 2020 |
 | E - [Mendel's First Law](http://rosalind.info/problems/iprb/) | Heredity |  |
 | F - [Finding a Motif in DNA](http://rosalind.info/problems/subs/) | String Algorithms |  |
 
