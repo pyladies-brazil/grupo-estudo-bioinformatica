@@ -1,0 +1,12 @@
+import re
+f = open('rosalind_gc (2).txt')
+max = [-1, -1] #identifica o maior começando em 0 e substituindo
+for fasta in re.split(r'>', f.read())[1:]:# retirar a primeira linha em branco
+    cabeçalho = fasta.split('\n') [0] # identificar o cabeçalho da sequencia
+    dna = ''.join([code.strip() for code in fasta.split('\n') [1:]]) #juntar as listas
+    gc_cont = (dna.count('G') + dna.count('C')) / float(len(dna))
+    if gc_cont > max[1]:
+        max[0] = cabeçalho
+        max[1] = gc_cont
+print(max[0])
+print('%.6f' % (max[1] * 100))
