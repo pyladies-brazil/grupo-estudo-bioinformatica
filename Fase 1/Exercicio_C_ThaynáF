@@ -1,0 +1,17 @@
+'''Primeira Forma'''
+
+sequencia = 'AAAACCCGGT'
+sequencia = sequencia.replace('A', 't').replace('T', 'a').replace('C','g').replace('G', 'c').upper()[::-1]
+print(sequencia)
+
+
+'''Segunda Forma'''
+
+nome_arquivo = ('rosalind_rna (1).txt')
+file_name_result = nome_arquivo.replace('txt', 'result')
+
+with open(nome_arquivo) as data:
+    DNA = data.read()
+    DNA.upper()
+    DNA = DNA.replace('A', 't').replace('T', 'a').replace('C','g').replace('G', 'c').upper()[::-1]
+    print(DNA)
