@@ -1,4 +1,4 @@
-![Pyladies Bioinformática](imagens/boneca_1.png)
+[<img src="https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/blob/main/imagens/boneca_1.png" align="center" width=115>]
 
 # Bioinformática
 
