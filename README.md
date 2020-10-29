@@ -71,8 +71,8 @@ Fase 5: 6 semanas
 Lista do time responsável pela iniciativa
 
 
-| [<img src="https://avatars3.githubusercontent.com/u/34974649?s=460&u=cbaf67211a4451e245cd48c41971b9eb1f874a53&v=4" width=115><br><sub>Pâmella Araújo Balcaçar</sub>](https://github.com/pamellabiotec) | [<img src="https://avatars3.githubusercontent.com/u/27288941?s=400&v=4" width=115><br><sub>Thayana Tavares</sub>](https://github.com/thayanavt) |
-|------------|-----------|
+| [<img src="https://avatars3.githubusercontent.com/u/34974649?s=460&u=cbaf67211a4451e245cd48c41971b9eb1f874a53&v=4" width=115><br><sub>Pâmella Araújo Balcaçar</sub>](https://github.com/pamellabiotec) | [<img src="https://avatars3.githubusercontent.com/u/27288941?s=400&v=4" width=115><br><sub>Thayana Tavares</sub>](https://github.com/thayanavt) | [<img src="https://avatars0.githubusercontent.com/u/66020597?s=400&u=24bf1ee9680dc3b34baa0a7091c155b15c7d63b7&v=4" width=115><br><sub>Thayná Felizardo</sub>](https://github.com/Thayfelizardo) |
+|------------|-----------|----------|
 
 # Licença
 
