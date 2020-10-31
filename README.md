@@ -1,4 +1,5 @@
-<img src="https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/blob/main/imagens/boneca_1.png" align="center" width=115>
+| [<img src="https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/blob/main/imagens/boneca_1.png" width=150>](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica)|[<img src="https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/blob/main/imagens/boneca_2.png" width=150>](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica) |
+|:------------:|:-----------:|
 
 # Bioinformática
 
@@ -71,8 +72,8 @@ Fase 5: 6 semanas
 Lista do time responsável pela iniciativa
 
 
-| [<img src="https://avatars3.githubusercontent.com/u/34974649?s=460&u=cbaf67211a4451e245cd48c41971b9eb1f874a53&v=4" width=115><br><sub>Pâmella Araújo Balcaçar</sub>](https://github.com/pamellabiotec) | [<img src="https://avatars3.githubusercontent.com/u/27288941?s=400&v=4" width=115><br><sub>Thayana Tavares</sub>](https://github.com/thayanavt) | [<img src="https://avatars0.githubusercontent.com/u/66020597?s=400&u=24bf1ee9680dc3b34baa0a7091c155b15c7d63b7&v=4" width=115><br><sub>Thayná Felizardo</sub>](https://github.com/Thayfelizardo) |
-|------------|-----------|----------|
+| [<img src="https://avatars3.githubusercontent.com/u/34974649?s=460&u=cbaf67211a4451e245cd48c41971b9eb1f874a53&v=4" width=115><br><sub>Pâmella Araújo Balcaçar</sub>](https://github.com/pamellabiotec) | [<img src="https://avatars3.githubusercontent.com/u/27288941?s=400&v=4" width=115><br><sub>Thayana Tavares</sub>](https://github.com/thayanavt) | [<img src="https://avatars0.githubusercontent.com/u/66020597?s=400&u=24bf1ee9680dc3b34baa0a7091c155b15c7d63b7&v=4" width=115><br><sub>Thayná Felizardo</sub>](https://github.com/Thayfelizardo) | [<img src="https://ca.slack-edge.com/T03HT05JZ-U01C9089BT5-4a42e903b5c7-512" width=115><br><sub>Clara Matos</sub>](https://github.com/ccmt) | [<img src="https://avatars2.githubusercontent.com/u/49698966?s=460&u=20f72ba9e905df90d061efa86a9c71d91b596c33&v=4" width=115><br><sub>Juliana Alves</sub>](https://github.com/julianafalves)| [<img src="https://avatars3.githubusercontent.com/u/72659026?s=460&u=7c54309e1f6ada7950ba5b6712816e76c45ecc77&v=4" width=115><br><sub>Mariana Gomes</sub>](https://github.com/marianapgs)|
+|------------|-----------|----------|----------|----------|----------|
 
 # Licença
 
