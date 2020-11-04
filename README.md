@@ -21,8 +21,8 @@ Fase 1: 6 semanas
 |:----------:|:------:|:-----------:|
 |A - [Counting DNA Nucleotides](http://rosalind.info/problems/dna/) e [Transcribing DNA into RNA](http://rosalind.info/problems/rna/) | String Algorithms | [10 out. 2020](https://github.com/pyladies-brazil/organizacao/issues/34)  |
 |B - [Complementing a Strand of DNA](http://rosalind.info/problems/revc/) e [Computing GC Content](http://rosalind.info/problems/gc/) | String Algorithms | [24 out. 2020](https://github.com/pyladies-brazil/organizacao/issues/36) |
-|C - [Counting Point Mutations](http://rosalind.info/problems/hamm/) |Alignment| 08 nov. 2020 |
-| D - [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | Combinatorics | 08 nov. 2020 |
+|C - [Counting Point Mutations](http://rosalind.info/problems/hamm/) |Alignment| 15 nov. 2020 |
+| D - [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | Combinatorics | 15 nov. 2020 |
 | E - [Mendel's First Law](http://rosalind.info/problems/iprb/) | Heredity |  |
 | F - [Finding a Motif in DNA](http://rosalind.info/problems/subs/) | String Algorithms |  |
 
@@ -72,7 +72,7 @@ Fase 5: 6 semanas
 Lista do time responsável pela iniciativa
 
 
-| [<img src="https://avatars3.githubusercontent.com/u/34974649?s=460&u=cbaf67211a4451e245cd48c41971b9eb1f874a53&v=4" width=115><br><sub>Pâmella Araújo Balcaçar</sub>](https://github.com/pamellabiotec) | [<img src="https://avatars3.githubusercontent.com/u/27288941?s=400&v=4" width=115><br><sub>Thayana Tavares</sub>](https://github.com/thayanavt) | [<img src="https://avatars0.githubusercontent.com/u/66020597?s=400&u=24bf1ee9680dc3b34baa0a7091c155b15c7d63b7&v=4" width=115><br><sub>Thayná Felizardo</sub>](https://github.com/Thayfelizardo) | [<img src="https://ca.slack-edge.com/T03HT05JZ-U01C9089BT5-4a42e903b5c7-512" width=115><br><sub>Clara Matos</sub>](https://github.com/ccmt) | [<img src="https://avatars2.githubusercontent.com/u/49698966?s=460&u=20f72ba9e905df90d061efa86a9c71d91b596c33&v=4" width=115><br><sub>Juliana Alves</sub>](https://github.com/julianafalves)| [<img src="https://avatars3.githubusercontent.com/u/72659026?s=460&u=7c54309e1f6ada7950ba5b6712816e76c45ecc77&v=4" width=115><br><sub>Mariana Gomes</sub>](https://github.com/marianapgs)|
+| [<img src="https://avatars3.githubusercontent.com/u/34974649?s=460&u=cbaf67211a4451e245cd48c41971b9eb1f874a53&v=4" width=115><br><sub>Pâmella A.Balcaçar</sub>](https://github.com/pamellabiotec) | [<img src="https://avatars3.githubusercontent.com/u/27288941?s=400&v=4" width=115><br><sub>Thayana Tavares</sub>](https://github.com/thayanavt) | [<img src="https://avatars0.githubusercontent.com/u/66020597?s=400&u=24bf1ee9680dc3b34baa0a7091c155b15c7d63b7&v=4" width=115><br><sub>Thayná Felizardo</sub>](https://github.com/Thayfelizardo) | [<img src="https://ca.slack-edge.com/T03HT05JZ-U01C9089BT5-4a42e903b5c7-512" width=115><br><sub>Clara Matos</sub>](https://github.com/ccmt) | [<img src="https://avatars2.githubusercontent.com/u/49698966?s=460&u=20f72ba9e905df90d061efa86a9c71d91b596c33&v=4" width=115><br><sub>Juliana Alves</sub>](https://github.com/julianafalves)| [<img src="https://avatars3.githubusercontent.com/u/72659026?s=460&u=7c54309e1f6ada7950ba5b6712816e76c45ecc77&v=4" width=115><br><sub>Mariana Gomes</sub>](https://github.com/marianapgs)|
 |------------|-----------|----------|----------|----------|----------|
 
 # Licença
