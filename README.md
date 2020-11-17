@@ -16,17 +16,17 @@ Esse é o repositório do **grupo de estudo de bioinformática** ligado às PyLa
 
 ## Cronograma
 
-Fase 1: 6 semanas
+[Fase 1](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/issues/2): 6 semanas
 | Exercícios | Tópico | Dia da Reunião |
 |:----------:|:------:|:-----------:|
 |A - [Counting DNA Nucleotides](http://rosalind.info/problems/dna/) e [Transcribing DNA into RNA](http://rosalind.info/problems/rna/) | String Algorithms | [10 out. 2020](https://github.com/pyladies-brazil/organizacao/issues/34)  |
 |B - [Complementing a Strand of DNA](http://rosalind.info/problems/revc/) e [Computing GC Content](http://rosalind.info/problems/gc/) | String Algorithms | [24 out. 2020](https://github.com/pyladies-brazil/organizacao/issues/36) |
 |C - [Counting Point Mutations](http://rosalind.info/problems/hamm/) |Alignment| [15 nov. 2020](https://github.com/pyladies-brazil/organizacao/issues/41) |
 | D - [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | Combinatorics | [15 nov. 2020](https://github.com/pyladies-brazil/organizacao/issues/41) |
-| E - [Mendel's First Law](http://rosalind.info/problems/iprb/) | Heredity |  |
-| F - [Finding a Motif in DNA](http://rosalind.info/problems/subs/) | String Algorithms |  |
+| E - [Mendel's First Law](http://rosalind.info/problems/iprb/) | Heredity | 29 nov. 2020 |
+| F - [Finding a Motif in DNA](http://rosalind.info/problems/subs/) | String Algorithms | 29 nov. 2020 |
 
-Fase 2: 7 semanas
+[Fase 2](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/issues/3): 7 semanas
 | Exercícios | Tópico | Dia da Reunião |
 |:----------:|:------:|:-----------:|
 |A - [Overlap Graphs](http://rosalind.info/problems/grph/) | Graph Algorithms |  |
@@ -37,7 +37,7 @@ Fase 2: 7 semanas
 |F - [RNA Splicing](http://rosalind.info/problems/splc/) | String Algorithms | |
 |G - [Calculating Protein Mass](http://rosalind.info/problems/prtm/) | Computacional Mass Spectrometry | |
 
-Fase 3: 6 semanas
+[Fase 3](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/issues/4): 6 semanas
 | Exercícios | Tópico | Dia da Reunião |
 |:----------:|:------:|:-----------:|
 |A - [Open Reading Frames](http://rosalind.info/problems/orf/) | Combinatorics | |
@@ -47,7 +47,7 @@ Fase 3: 6 semanas
 |E - [Locating Restriction Sites](http://rosalind.info/problems/revp/) | String Algorithms | |
 |F - [Inferring mRNA from Protein](http://rosalind.info/problems/mrna/) | Combinatorics | |
 
-Fase 4: 6 semanas
+[Fase 4](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/issues/5): 6 semanas
 | Exercícios | Tópico | Dia da Reunião |
 |:----------:|:------:|:-----------:|
 |A - [Perfect Matchings and RNA Secondary Structures](http://rosalind.info/problems/pmch/) | Combinatorics | |
@@ -57,7 +57,7 @@ Fase 4: 6 semanas
 |E - [Genome Assembly as Shortest Superstring](http://rosalind.info/problems/long/) | Genome Assembly | |
 |F - [Finding a Spliced Motif](http://rosalind.info/problems/sseq/) | String Algorithms | |
 
-Fase 5: 6 semanas
+[Fase 5](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/issues/6): 6 semanas
 | Exercícios | Tópico | Dia da Reunião |
 |:----------:|:------:|:-----------:|
 |A - [Transitions and Transversions](http://rosalind.info/problems/tran/) | Alignment | |
