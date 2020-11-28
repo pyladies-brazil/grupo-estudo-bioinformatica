@@ -9,6 +9,7 @@ Em um cruzamento mono-híbridos, Mendel afirmou:
 2. O princípio da segregação - os alelos diferentes de um gene segregam-se durante a formação das gametas;
 
 Em um cruzamento di-híbridos, Mendel afirmou:
+
 3. O princípio da Distribuição independente -  os alelos de diferentes genes são distruídos de modo independente.
 
 >(...) transmissão de caracteres entre gerações, através das ervilhas, Mendel postulou algumas teorias. Entre elas, a de que cada organismo possui um par de fatores responsável por determinada característica. Esses fatores são provenientes dos pais. Hoje, sabemos que esses fatores, denominados alelos, estão situados nos cromossomos (DNA). Se os dois alelos do indivíduo para um determinado lócus (região do DNA) são iguais, dizemos que há homozigose. Se os alelos são diferentes, dizemos que há heterozigose para tal lócus cromossomal.[3]
@@ -18,12 +19,14 @@ Em um cruzamento di-híbridos, Mendel afirmou:
 <img src="https://slideplayer.com.br/slide/5620925/2/images/10/Aplica%C3%A7%C3%B5es+dos+Princ%C3%ADpios+de+Mendel.jpg">
 Fonte: SlidePlayer
 
+
 Quadrado de Punnett é um diagrama que permite determinar a herança genética resultada de um cruzamento entre pais. Este método foi desenvolvido pelo geneticista britânico **Reginald C. Punnett**.
 
 ## Método da Linha Bifurcada
 
 <img src="https://slideplayer.com.br/slide/5620925/2/images/11/Aplica%C3%A7%C3%B5es+dos+Princ%C3%ADpios+de+Mendel.jpg">
 Fonte: SlidePlayer
+
 
 É outra técnica utilizada para prever o resultado do cruzamento com participação de um ou dois genes.
 
@@ -41,10 +44,10 @@ Geralmente, resultante de mutações em padrões de herança recessivos, dominan
 
 >Os geneticistas cunharaam o termo **adaptabilidade** como medida do impacto de uma condição sobre a reprodução. A adaptabilidade é definida como o número de indivíduos da prole afetados com a condição que podem sobreviver até uma idade reprodutiva, em comparação com grupo-controle adequado. [5]
 
-a) O distúrbio autossômico recessivo mais comum em crianças brancas é **fibrose cística** (FC) - alelo CFTR mutante.
-b) A **doença de Tay-Sachs** (gangliosidade GM²) é um exemplo de doença autossômica recessiva que provoca cegueira, regressão física e mental ainda na infância.
-c) A **acondroplasia** é o distúrbio autossômico dominante, que se manifesta como um nanismo de membros curtos e cabeça grande.
-d) A **doença de Huntington** (DH) é um distúrbio autossômico dominante. A neuropatologia é dominada pela degeneração do estriado e do córtex - alelo mutante HD se manifesta por volta dos 40 anos.
+1. O distúrbio autossômico recessivo mais comum em crianças brancas é **fibrose cística** (FC) - alelo CFTR mutante.
+2. A **doença de Tay-Sachs** (gangliosidade GM²) é um exemplo de doença autossômica recessiva que provoca cegueira, regressão física e mental ainda na infância.
+3. A **acondroplasia** é o distúrbio autossômico dominante, que se manifesta como um nanismo de membros curtos e cabeça grande.
+4. A **doença de Huntington** (DH) é um distúrbio autossômico dominante. A neuropatologia é dominada pela degeneração do estriado e do córtex - alelo mutante HD se manifesta por volta dos 40 anos.
 
 ***
 
