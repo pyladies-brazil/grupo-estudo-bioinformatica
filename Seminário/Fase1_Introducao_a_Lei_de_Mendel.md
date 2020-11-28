@@ -1,8 +1,5 @@
 # Introdução a Lei de Mendel
 
-<img src="https://pt.wikipedia.org/wiki/Ficheiro:Gregor_Mendel_Monk.jpg">
-Fonte: Wikipedia
-
 **Gregor Johann Mendel** (1822-1884) fez a revolução cientifica ao postular os seus estudos em 1865 sobre os experimentos com ervilha. Embora tenha tentado utilizar outros organismos, ele teve mais sucesso nos experimentos com ervilha.
 
 >A ervilha de jardim, Pisum sativum, o material experimental, é o motivo de sucesso de Mendel, uma vez que as pétalas de sua flor se fecham firmemente, impedindo que grãos de pólen entrem ou saiam facilmente, forçando um sistema de autofertilização.[1]
@@ -18,14 +15,15 @@ Em um cruzamento di-híbridos, Mendel afirmou:
 
 ## Método do Quadro de Punnett
 
-<img src="https://pt.wikipedia.org/wiki/Ficheiro:Punnett_Square.svg">
-Fonte: Wikipedia
+<img src="https://slideplayer.com.br/slide/5620925/2/images/10/Aplica%C3%A7%C3%B5es+dos+Princ%C3%ADpios+de+Mendel.jpg">
+Fonte: SlidePlayer
 
 Quadrado de Punnett é um diagrama que permite determinar a herança genética resultada de um cruzamento entre pais. Este método foi desenvolvido pelo geneticista britânico **Reginald C. Punnett**.
 
 ## Método da Linha Bifurcada
 
 <img src="https://slideplayer.com.br/slide/5620925/2/images/11/Aplica%C3%A7%C3%B5es+dos+Princ%C3%ADpios+de+Mendel.jpg">
+Fonte: SlidePlayer
 
 É outra técnica utilizada para prever o resultado do cruzamento com participação de um ou dois genes.
 
