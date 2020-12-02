@@ -21,10 +21,11 @@ Esse é o repositório do **grupo de estudo de bioinformática** ligado às PyLa
 |:----------:|:------:|:-----------:|
 |A - [Counting DNA Nucleotides](http://rosalind.info/problems/dna/) e [Transcribing DNA into RNA](http://rosalind.info/problems/rna/) | String Algorithms | [10 out. 2020](https://github.com/pyladies-brazil/organizacao/issues/34)  |
 |B - [Complementing a Strand of DNA](http://rosalind.info/problems/revc/) e [Computing GC Content](http://rosalind.info/problems/gc/) | String Algorithms | [24 out. 2020](https://github.com/pyladies-brazil/organizacao/issues/36) |
-|C - [Counting Point Mutations](http://rosalind.info/problems/hamm/) |Alignment| [15 nov. 2020](https://github.com/pyladies-brazil/organizacao/issues/41) |
-| D - [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | Combinatorics | [15 nov. 2020](https://github.com/pyladies-brazil/organizacao/issues/41) |
-| E - [Mendel's First Law](http://rosalind.info/problems/iprb/) | Heredity | 29 nov. 2020 |
-| F - [Finding a Motif in DNA](http://rosalind.info/problems/subs/) | String Algorithms | 29 nov. 2020 |
+|C - [Counting Point Mutations](http://rosalind.info/problems/hamm/) |Alignment| [15 nov. 2020¹](https://github.com/pyladies-brazil/organizacao/issues/41) |
+| D - [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | Combinatorics | [15 nov. 2020¹](https://github.com/pyladies-brazil/organizacao/issues/41) |
+| E - [Mendel's First Law](http://rosalind.info/problems/iprb/) | Heredity | [6 dez. 2020¹](https://github.com/pyladies-brazil/organizacao/issues/44) |
+| F - [Finding a Motif in DNA](http://rosalind.info/problems/subs/) | String Algorithms | [6 dez. 2020¹](https://github.com/pyladies-brazil/organizacao/issues/44) |
+¹Adiados excepcionalmente.
 
 [Fase 2](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/issues/3): 7 semanas
 | Exercícios | Tópico | Dia da Reunião |
@@ -78,7 +79,7 @@ Lista do time responsável pela iniciativa
 
 # Licença
 
-The [MIT License](https://api.github.com/licenses/mit) (MIT)
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons - Atribuição-Não Comercial-Compartilha Igual 4.0 Internacional</a>.
 
 ### Comunicação 
 
