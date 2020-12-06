@@ -1,4 +1,4 @@
-''' exercício C '''
+'''  Complementing a Strand of DNA '''
 
 codigoComplementarDNA = {
     'A':'T', 'T':'A', 'G':'C', 'C':'G'}
@@ -14,7 +14,7 @@ def DNA_complemento_reverso(seq, dic):
 
 #print(DNA_complemento_reverso("ATCGGCCGCTTT",codigoComplementarDNA))
     
-''' exercício D '''
+'''  Computing GC Content '''
 
 def porcentagem_CG(string):
     return 100*((string.count('C') + string.count('G'))/(float(len(string))))
