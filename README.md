@@ -24,15 +24,15 @@ Esse é o repositório do **grupo de estudo de bioinformática** ligado às PyLa
 |C - [Counting Point Mutations](http://rosalind.info/problems/hamm/) |Alignment| [15 nov. 2020¹](https://github.com/pyladies-brazil/organizacao/issues/41) |
 | D - [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | Combinatorics | [15 nov. 2020¹](https://github.com/pyladies-brazil/organizacao/issues/41) |
 | E - [Mendel's First Law](http://rosalind.info/problems/iprb/) | Heredity | [6 dez. 2020¹](https://github.com/pyladies-brazil/organizacao/issues/44) |
-| F - [Finding a Motif in DNA](http://rosalind.info/problems/subs/) | String Algorithms | [6 dez. 2020¹](https://github.com/pyladies-brazil/organizacao/issues/44) |
+| F - [Finding a Motif in DNA](http://rosalind.info/problems/subs/) | String Algorithms | [13 dez. 2020](https://github.com/pyladies-brazil/organizacao/issues/46) |
 ¹Adiados excepcionalmente.
 
 [Fase 2](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/issues/3): 7 semanas
 | Exercícios | Tópico | Dia da Reunião |
 |:----------:|:------:|:-----------:|
-|A - [Overlap Graphs](http://rosalind.info/problems/grph/) | Graph Algorithms |  |
-|B - [Mortal Fibonacci Rabbits](http://rosalind.info/problems/fibd/) | Combinatorics | |
-|C - [Consensus and Profile](http://rosalind.info/problems/cons/)| String Algorithms | |
+|A - [Overlap Graphs](http://rosalind.info/problems/grph/) | Graph Algorithms | [24 jan. 2021](https://github.com/pyladies-brazil/organizacao/issues/47) |
+|B - [Mortal Fibonacci Rabbits](http://rosalind.info/problems/fibd/) | Combinatorics | [07 fev. 2021](https://github.com/pyladies-brazil/organizacao/issues/48)|
+|C - [Consensus and Profile](http://rosalind.info/problems/cons/)| String Algorithms | 21 fev. 2021 |
 |D - [Calculating Expected Offspring](http://rosalind.info/problems/iev/) | Heredity | |
 |E - [Finding a Protein Motif](http://rosalind.info/problems/mprt/) | Proteomics | |
 |F - [RNA Splicing](http://rosalind.info/problems/splc/) | String Algorithms | |
