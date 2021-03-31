@@ -1,7 +1,7 @@
 | [<img src="https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/blob/main/imagens/boneca_1.png" width=150>](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica)| [<img src="https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/blob/main/imagens/boneca_3.png" width=150>](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica) | [<img src="https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/blob/main/imagens/boneca_2.png" width=150>](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica) |
 |:------------:|:-----------:|:-----------:|
 
-# Bioinformática
+# Bioinformática: Rosalind
 
 Esse é o repositório do **grupo de estudo de bioinformática** ligado às PyLadies Brasil, iremos armazenar os estudos, os modelos, outros arquivos relacionado a bioinformática. Inicialmente, estaremos utilizando a proposta da rosalind. [Rosalind](http://rosalind.info/problems/list-view/) é um website que possui diversos problemas de **Bioinformática** para serem resolvidos usando programação. Os exercícios fornecem os dados de input e as instruções do que deve ser feito, o objetivo é usar a programação para retornar a resolução com output.
 

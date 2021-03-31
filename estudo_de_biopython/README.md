@@ -8,7 +8,7 @@ Recentemente, o **grupo de estudo de bioinformática** acrescentou mais uma paut
 **Funcionamento do grupo de estudo Biopython:**
 * Leitura da documentação oficial da biblioteca;
 * Treinamento com os exemplos dados pela documentação oficial;
-* Prática com exércicios de outras literaturas consultada e discutidas no grupo;
+* Prática com exércicios de outras literaturas consultadas e discutidas no grupo;
 
 ## Documentação
 
