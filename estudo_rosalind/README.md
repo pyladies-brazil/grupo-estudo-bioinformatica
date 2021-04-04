@@ -14,6 +14,11 @@ Esse é o repositório do **grupo de estudo de bioinformática** ligado às PyLa
 
 ***
 
+Orientação para upload dos arquivos no repositório: recomendamos que crie o arquivo com o seguinte nome Exercicio_X_SEUNOME.py, onde X se referencia a letra do exercício apresentado no cronograma, por exemplo, Exercicio_A_Clara.py. E armazene na respectiva pasta da fase conforme segue descrito nos cronogramas dos grupos. Assim, quem está no grupo 2, por exemplo, encontra-se na 1ª fase, logo salva o arquivo na pasta fase 1.
+
+
+***
+
 ## Cronograma do grupo 1
 
 [Fase 1](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/issues/2): 6 semanas
