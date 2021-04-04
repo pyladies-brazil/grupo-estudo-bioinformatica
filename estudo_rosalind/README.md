@@ -14,7 +14,7 @@ Esse é o repositório do **grupo de estudo de bioinformática** ligado às PyLa
 
 ***
 
-## Cronograma
+## Cronograma do grupo 1
 
 [Fase 1](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/issues/2): 6 semanas
 | Exercícios | Tópico | Dia da Reunião |
@@ -32,10 +32,10 @@ Esse é o repositório do **grupo de estudo de bioinformática** ligado às PyLa
 |:----------:|:------:|:-----------:|
 |A - [Overlap Graphs](http://rosalind.info/problems/grph/) | Graph Algorithms | [24 jan. 2021](https://github.com/pyladies-brazil/organizacao/issues/47) |
 |B - [Mortal Fibonacci Rabbits](http://rosalind.info/problems/fibd/) | Combinatorics | [07 fev. 2021](https://github.com/pyladies-brazil/organizacao/issues/48)|
-|C - [Consensus and Profile](http://rosalind.info/problems/cons/)| String Algorithms | 21 fev. 2021 |
-|D - [Calculating Expected Offspring](http://rosalind.info/problems/iev/) | Heredity | |
-|E - [Finding a Protein Motif](http://rosalind.info/problems/mprt/) | Proteomics | |
-|F - [RNA Splicing](http://rosalind.info/problems/splc/) | String Algorithms | |
+|C - [Consensus and Profile](http://rosalind.info/problems/cons/)| String Algorithms | [21 fev. 2021](https://github.com/pyladies-brazil/organizacao/issues/55) |
+|D - [Calculating Expected Offspring](http://rosalind.info/problems/iev/) | Heredity | [07 mar. 2021](https://github.com/pyladies-brazil/organizacao/issues/56)|
+|E - [Finding a Protein Motif](http://rosalind.info/problems/mprt/) | Proteomics | [21 mar. 2021](https://github.com/pyladies-brazil/organizacao/issues/57) |
+|F - [RNA Splicing](http://rosalind.info/problems/splc/) | String Algorithms | [04 abr. 2021](https://github.com/pyladies-brazil/organizacao/issues/58) |
 |G - [Calculating Protein Mass](http://rosalind.info/problems/prtm/) | Computacional Mass Spectrometry | |
 
 [Fase 3](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/issues/4): 6 semanas
@@ -67,6 +67,19 @@ Esse é o repositório do **grupo de estudo de bioinformática** ligado às PyLa
 |D - [Enumerating Oriented Gene Orderings](http://rosalind.info/problems/sign/) | Genome Rearrangements | |
 |E - [Counting Phylogenetic Ancestors](http://rosalind.info/problems/inod/) | Phylogeny | |
 |F - [Maximum Matchings and RNA Secondary Structures](http://rosalind.info/problems/mmch/) | String Algorithms | |
+
+
+## Cronograma do grupo 2
+
+[Fase 1](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/issues/2): 6 semanas
+| Exercícios | Tópico | Dia da Reunião |
+|:----------:|:------:|:-----------:|
+|A - [Counting DNA Nucleotides](http://rosalind.info/problems/dna/) e [Transcribing DNA into RNA](http://rosalind.info/problems/rna/) | String Algorithms | [04 abr. 2021](https://github.com/pyladies-brazil/organizacao/issues/58) |
+|B - [Complementing a Strand of DNA](http://rosalind.info/problems/revc/) e [Computing GC Content](http://rosalind.info/problems/gc/) | String Algorithms | 18 abr. 2022 |
+|C - [Counting Point Mutations](http://rosalind.info/problems/hamm/) |Alignment|  |
+| D - [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | Combinatorics |  |
+| E - [Mendel's First Law](http://rosalind.info/problems/iprb/) | Heredity |  |
+| F - [Finding a Motif in DNA](http://rosalind.info/problems/subs/) | String Algorithms |  |
 
 
 ### Comunicação 
