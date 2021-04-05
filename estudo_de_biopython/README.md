@@ -18,6 +18,8 @@ Recentemente, o **grupo de estudo de bioinformática** acrescentou mais uma paut
 
 ## Datas e Tópicos:
 
+PDF: http://biopython.org/DIST/docs/tutorial/Tutorial.pdf
+
 **15/04/21:** Objeto sequência - Seção 3 (3.1 - 3.13)
 
 **29/04/21:** Anotação de sequências - Seção 4 (4.1 - 4.9)
