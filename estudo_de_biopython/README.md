@@ -7,8 +7,8 @@ Recentemente, o **grupo de estudo de bioinformática** acrescentou mais uma paut
 
 **Funcionamento do grupo de estudo Biopython:**
 * Encontros quinzenais de forma remota; 
-* Leitura da documentação oficial da biblioteca;
-* Aula ministrado por tópico conforme cronograma abaixo;
+* Estudo dirigido da documentação oficial da biblioteca;
+* Aula ministrada por tópico conforme cronograma abaixo;
 * Treinamento com os exemplos dados pela documentação oficial;
 * Prática com exércicios de outras literaturas consultadas e discutidas no grupo;
 
@@ -16,7 +16,7 @@ Recentemente, o **grupo de estudo de bioinformática** acrescentou mais uma paut
 
 Data | Tópico | Capítulo (seções) | Pylady/instrutura  |
 :--:|:--:|:--:|:--:|
-08/04/21 | Objeto sequência | 3 (3.1 - 3.13) | @SindyPin |
+[08/04/21](https://github.com/pyladies-brazil/organizacao/issues/60) | Objeto sequência | 3 (3.1 - 3.13) | @SindyPin |
 22/04/21 | Anotação de sequências | 4 (4.1 - 4.9) | @thayanavt   |
 06/05/21 | Input/Out de sequências |5 (5.1-5.3) | @vanleiko |
 20/05/21 | Input/Out de sequências | 5 (5.4 - 5.6) | |
