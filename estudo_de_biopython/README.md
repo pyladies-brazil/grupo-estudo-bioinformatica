@@ -23,8 +23,8 @@ Data | Tópico | Capítulo (seções) | Pylady/instrutura  |
 03/06/21 | Alinhamento Múltiplo de Sequências | 6 (6.1 - 6.3) | |
 10/06/21 | Alinhamento Múltiplo de Sequências | 6 (6.4 - 6.7) | |
 17/06/21 | BLAST | 7 (7.1 - 7.6) | |
-10/07/21 | Outrass ferramentas de busca | 8 (8.1 -8.5) | |
-15/07/21 | Cookobook | 20 (20.1 - 20.5) | |
+10/07/21 | Outras ferramentas de busca | 8 (8.1 -8.5) | |
+15/07/21 | Cookbook | 20 (20.1 - 20.5) | |
 
 ## Documentação
 
