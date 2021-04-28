@@ -16,43 +16,22 @@ Recentemente, o **grupo de estudo de bioinformática** acrescentou mais uma paut
 
 Data | Tópico | Capítulo (seções) | Pylady/instrutura  |
 :--:|:--:|:--:|:--:|
-[08/04/21](https://github.com/pyladies-brazil/organizacao/issues/60) | Objeto sequência | 3 (3.1 - 3.13) | @SindyPin |
-22/04/21 | Anotação de sequências | 4 (4.1 - 4.9) | @thayanavt   |
-06/05/21 | Input/Out de sequências |5 (5.1-5.3) | @vanleiko |
-20/05/21 | Input/Out de sequências | 5 (5.4 - 5.6) | |
+[08/04/21](https://github.com/pyladies-brazil/organizacao/issues/60) | Objeto sequência | 3 (3.1 - 3.13) | Sindy |
+22/04/21 | Anotação de sequências | 4 (4.1 - 4.9) | Thayana   |
+06/05/21 | Input/Out de sequências |5 (5.1-5.3) | Vanessa |
+20/05/21 | Input/Out de sequências | 5 (5.4 - 5.6) | Clara |
 03/06/21 | Alinhamento Múltiplo de Sequências | 6 (6.1 - 6.3) | |
-10/06/21 | Alinhamento Múltiplo de Sequências | 6 (6.4 - 6.7) | |
-17/06/21 | BLAST | 7 (7.1 - 7.6) | |
-10/07/21 | Outras ferramentas de busca | 8 (8.1 -8.5) | |
-15/07/21 | Cookbook | 20 (20.1 - 20.5) | |
+17/06/21 | Alinhamento Múltiplo de Sequências | 6 (6.4 - 6.7) | |
+01/07/21 | BLAST | 7 (7.1 - 7.6) | |
+15/07/21 | Outras ferramentas de busca | 8 (8.1 -8.5) | |
+22/07/21 | Cookbook | 20 (20.1 - 20.5) | |
 
 ## Documentação
 
 - [Oficial]( http://biopython.org);
+- [PDF](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf);
 - [Cookbook de Biopython](https://biopython.org/wiki/Category%3ACookbook);
 - [Github da biblioteca](https://github.com/biopython/biopython);
-
-## Datas e Tópicos:
-
-PDF: http://biopython.org/DIST/docs/tutorial/Tutorial.pdf
-
-**08/04/21:** Objeto sequência - Seção 3 (3.1 - 3.13)
-
-**22/04/21:** Anotação de sequências - Seção 4 (4.1 - 4.9)
-
-**06/05/21:** Input/Output de sequências - Seção 5 (5.1 - 5.3)
-
-**20/05/21:** Input/Output de sequências - Seção 5 (5.4 - 5.6)
-
-**03/06/21:** Alinhamento Múltiplo de sequências - Seção 6 (6.1 - 6.3)
-
-**17/06/21:** Alinhamento Múltiplo de sequências - Seção 6 (6.4 - 6.7)
-
-**01/07/21:** BLAST - Seção 7 (7.1 - 7.6)
-
-**15/07/21:** Outras ferramentas de busca - Seção 8 (8.1 - 8.5)
-
-**22/07/21:** Cookbook - Seção 20 (20.1 - 20.5)
 
 ## Comunicação
 
