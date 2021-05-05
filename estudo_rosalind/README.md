@@ -41,13 +41,13 @@ Orientação para upload dos arquivos no repositório: recomendamos que crie o a
 |D - [Calculating Expected Offspring](http://rosalind.info/problems/iev/) | Heredity | [07 mar. 2021](https://github.com/pyladies-brazil/organizacao/issues/56)|
 |E - [Finding a Protein Motif](http://rosalind.info/problems/mprt/) | Proteomics | [21 mar. 2021](https://github.com/pyladies-brazil/organizacao/issues/57) |
 |F - [RNA Splicing](http://rosalind.info/problems/splc/) | String Algorithms | [04 abr. 2021](https://github.com/pyladies-brazil/organizacao/issues/58) |
-|G - [Calculating Protein Mass](http://rosalind.info/problems/prtm/) | Computacional Mass Spectrometry | |
+|G - [Calculating Protein Mass](http://rosalind.info/problems/prtm/) | Computacional Mass Spectrometry | [18 abr. 2021](https://github.com/pyladies-brazil/organizacao/issues/69)|
 
 [Fase 3](https://github.com/pyladies-brazil/grupo-estudo-bioinformatica/issues/4): 6 semanas
 | Exercícios | Tópico | Dia da Reunião |
 |:----------:|:------:|:-----------:|
-|A - [Open Reading Frames](http://rosalind.info/problems/orf/) | Combinatorics | |
-|B - [Independent Alleles](http://rosalind.info/problems/lia/) | Heredity | |
+|A - [Open Reading Frames](http://rosalind.info/problems/orf/) | Combinatorics | [02 mai. 2021](https://github.com/pyladies-brazil/organizacao/issues/71)  |
+|B - [Independent Alleles](http://rosalind.info/problems/lia/) | Heredity |16 mai. 2021  |
 |C - [Finding a Shared Motif](http://rosalind.info/problems/lcsm/) | String Algorithms | |
 |D - [Enumerating Gene Orders](http://rosalind.info/problems/perm/) | Genome Rearrangements | |
 |E - [Locating Restriction Sites](http://rosalind.info/problems/revp/) | String Algorithms | |
@@ -80,9 +80,9 @@ Orientação para upload dos arquivos no repositório: recomendamos que crie o a
 | Exercícios | Tópico | Dia da Reunião |
 |:----------:|:------:|:-----------:|
 |A - [Counting DNA Nucleotides](http://rosalind.info/problems/dna/) e [Transcribing DNA into RNA](http://rosalind.info/problems/rna/) | String Algorithms | [04 abr. 2021](https://github.com/pyladies-brazil/organizacao/issues/58) |
-|B - [Complementing a Strand of DNA](http://rosalind.info/problems/revc/) e [Computing GC Content](http://rosalind.info/problems/gc/) | String Algorithms | 18 abr. 2022 |
-|C - [Counting Point Mutations](http://rosalind.info/problems/hamm/) |Alignment|  |
-| D - [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | Combinatorics |  |
+|B - [Complementing a Strand of DNA](http://rosalind.info/problems/revc/) e [Computing GC Content](http://rosalind.info/problems/gc/) | String Algorithms | [18 abr. 2021](https://github.com/pyladies-brazil/organizacao/issues/69) |
+|C - [Counting Point Mutations](http://rosalind.info/problems/hamm/) |Alignment| [02 mai. 2021](https://github.com/pyladies-brazil/organizacao/issues/71)  |
+| D - [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | Combinatorics | 16 mai. 2021 |
 | E - [Mendel's First Law](http://rosalind.info/problems/iprb/) | Heredity |  |
 | F - [Finding a Motif in DNA](http://rosalind.info/problems/subs/) | String Algorithms |  |
 
