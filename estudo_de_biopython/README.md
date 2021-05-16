@@ -18,7 +18,7 @@ Data | Tópico | Capítulo (seções) | Pylady/instrutura  |
 :--:|:--:|:--:|:--:|
 [08/04/21](https://github.com/pyladies-brazil/organizacao/issues/60) | Objeto sequência | 3 (3.1 - 3.13) | Sindy |
 [22/04/21](https://github.com/pyladies-brazil/organizacao/issues/70) | Anotação de sequências | 4 (4.1 - 4.9) | Thayana   |
-06/05/21 | Input/Out de sequências |5 (5.1-5.3) | Vanessa |
+[06/05/21](https://github.com/pyladies-brazil/organizacao/issues/74) | Input/Out de sequências |5 (5.1-5.3) | Vanessa |
 20/05/21 | Input/Out de sequências | 5 (5.4 - 5.6) | Clara |
 03/06/21 | Alinhamento Múltiplo de Sequências | 6 (6.1 - 6.3) | |
 17/06/21 | Alinhamento Múltiplo de Sequências | 6 (6.4 - 6.7) | |
